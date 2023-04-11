@@ -1,0 +1,1 @@
+from cmdb.serializer import *
